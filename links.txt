@@ -2,6 +2,7 @@ nicepage.com
 html5up.com
 uideck.com
 cruip.com
+https://www.100daysofcode.com/resources/
 bootsrapmade.com
 frontendmentor
 https://dev.to/
