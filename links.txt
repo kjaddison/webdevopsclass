@@ -5,3 +5,5 @@ cruip.com
 bootsrapmade.com
 frontendmentor
 https://dev.to/
+https://traversymedia.com/guide
+https://dev.to/chaoocharles/2022-front-end-web-developer-roadmap-with-resources-51lh
